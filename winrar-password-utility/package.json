@@ -1,0 +1,14 @@
+{
+  "name": "winrar-password-utility",
+  "version": "1.0.0",
+  "description": "A simple WinRAR password cracker using brute-force and dictionary attacks.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "node-unrar-js": "^1.0.0"
+  },
+  "license": "MIT"
+}
